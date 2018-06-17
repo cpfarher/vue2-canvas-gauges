@@ -16,8 +16,8 @@ $ yarn add vue2-canvas-gauges --save
 </div>
 
 <script>
-  import LinearGauge from 'vue-canvas-gauges/src/LinearGauge'
-  import RadialGauge from 'vue-canvas-gauges/src/RadialGauge'
+  import LinearGauge from 'vue2-canvas-gauges/src/LinearGauge'
+  import RadialGauge from 'vue2-canvas-gauges/src/RadialGauge'
 
   export default {
     components: {
